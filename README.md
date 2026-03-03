@@ -1,17 +1,3 @@
-# Paarangat Jain
-
-**Builder · Student · Accessibility Advocate**
-
-*Computer Science & Mathematics @ Monash University*
-
-[![Portfolio](https://img.shields.io/badge/p--jain.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.p-jain.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarangat-jain-6aa1321ba/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:paarangatj@gmail.com)
-
-</div>
-
----
-
 ## About Me
 Hi! I'm Paarangat Jain, a Computer Science and Mathematics student at Monash University who is passionate about using technology to solve real problems and creating experiences that are thoughtfully made for the humans who'll use them.
 
