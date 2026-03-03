@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%" />
-
 # Paarangat Jain
 
 **Builder · Student · Accessibility Advocate**
@@ -17,36 +13,10 @@
 ---
 
 ## About Me
+Hi! I'm Paarangat Jain, a Computer Science and Mathematics student at Monash University who loves building things that actually matter to people. I'm passionate about using technology to solve real problems and creating experiences that are thoughtfully made for the humans who'll use them.
+Right now that shows up in my work at the Monash Assistive Technology Team (MATT), where I coordinate and lead projects focused on affordable assistive technology for students with disabilities.
 
-I build things that matter — and that's not a throwaway line. My interest in software isn't rooted in the craft for its own sake; it's rooted in what the craft *enables*. I'm drawn to projects where the end product has a genuine stake in someone's life: tools that open access, systems that reduce friction for people who face too much of it already, and experiences that are thoughtfully made for the humans who'll use them.
-
-Right now, that shows up most clearly in my role as **Project Coordinator and Operations Officer at the Monash Assistive Technology Team (MATT)**, where I lead development of open-source, low-cost refreshable Braille displays for blind and low-vision students. The work sits at the intersection of hardware, software, and human need — which is exactly where I want to be.
-
-Beyond assistive tech, I'm a student of problems that resist easy answers. My academic foundation in computer science and mathematics gives me language for thinking rigorously; the projects I take on outside of class give me practice in thinking practically. I believe the most meaningful work happens in that overlap.
-
-I care about community too. Technology built in isolation rarely serves people well. The best tools are co-created, iterated on with real users in mind, and made open so others can build further. That ethos shapes how I approach every project I'm part of.
-
----
-
-## What I Work With
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
+Outside of that, I'm always working on something, whether it's interactive algorithm visualisers, productivity apps, or accessibility tools. I believe the best software is built with communities, not just for them, and that's the ethos I bring to everything I work on.
 
 ---
 
