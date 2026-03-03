@@ -13,19 +13,15 @@
 ---
 
 ## About Me
-Hi! I'm Paarangat Jain, a Computer Science and Mathematics student at Monash University who loves building things that actually matter to people. I'm passionate about using technology to solve real problems and creating experiences that are thoughtfully made for the humans who'll use them.
-Right now that shows up in my work at the Monash Assistive Technology Team (MATT), where I coordinate and lead projects focused on affordable assistive technology for students with disabilities.
+Hi! I'm Paarangat Jain, a Computer Science and Mathematics student at Monash University who is passionate about using technology to solve real problems and creating experiences that are thoughtfully made for the humans who'll use them.
+
+Right now that shows up in my work at the Monash Assistive Technology Team (MATT), where I coordinate and lead a project focused on affordable assistive technology for students with disabilities, for the Tactile Display Project.
 
 Outside of that, I'm always working on something, whether it's interactive algorithm visualisers, productivity apps, or accessibility tools. I believe the best software is built with communities, not just for them, and that's the ethos I bring to everything I work on.
 
 ---
 
 ## Projects
-
-### Tactile Display — *MATT Open Source Initiative*
-Developing affordable, refreshable Braille displays for visually impaired students. Built the **React Native** companion app that bridges hardware and user, making digital content tangible for people who need it most.
-
----
 
 ### [Braille Character Quiz Game](https://pjrus.github.io/braille-quiz-game)
 An interactive web game for learning Braille — because accessibility tools should be engaging, not just functional. Built with **React**, **TypeScript**, and **RxJS** for reactive state management.
