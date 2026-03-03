@@ -28,28 +28,19 @@ I'm a Computer Science student (Mathematics Minor) at Monash University with a p
 ## Featured Projects
 
 ### Tactile Display Project
-> Contributing to an open-source initiative developing low-cost refreshable braille displays. Built a **React Native** companion app to interface with the hardware.
+> I work with the Monash Assistive Tech Team by contributing to an open-source initiative developing low-cost refreshable braille displays. Built a **React Native** companion app to interface with the hardware. 
 
-### [Braille Character Quiz Game](https://pjrus.github.io/braille-quiz-game)
+### [Braille Character Quiz Game][https://pjrus.github.io/braille-quiz-game]
 > An interactive web-based game for learning Braille characters, built with **React**, **TypeScript**, and **RxJS** for reactive state management.
 
-### Pomodoro Timer App (https://pjrus.github.io/pomo-app)
+### [Pomodoro Timer App][https://pjrus.github.io/pomo-app]
 > A full-featured iOS productivity app with a unique liquid animation timer, glassmorphism UI, haptic feedback, and ambient sound — built with **React Native** and **Expo**.
 
-### Appointment Booking System (https://pjrus.github.io/appointment-booking-system)
+### [Appointment Booking System][https://pjrus.github.io/appointment-booking-system]
 > A modern rewrite of my VCE Software Development project. Migrated from PHP/MySQL to a **Next.js** and **MongoDB** stack with full CRUD, server-side validation, and automated `.ics` calendar generation.
 
-### [Personal Portfolio Website](https://www.p-jain.dev)
+### [Personal Portfolio Website][https://www.p-jain.dev]
 > My portfolio site featuring an interactive **Algorithm Playground** with 11 live visualisers for graph algorithms and data structures (Dijkstra's, Bellman-Ford, AVL Trees, Tries, and more).
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pjrus&show_icons=true&theme=tokyonight&hide_border=true" alt="Paarangat's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjrus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
 
 ---
 
