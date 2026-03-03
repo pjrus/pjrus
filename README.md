@@ -5,8 +5,6 @@ Right now that shows up in my work at the Monash Assistive Technology Team (MATT
 
 Outside of that, I'm always working on something, whether it's interactive algorithm visualisers, productivity apps, or accessibility tools. I believe the best software is built with communities, not just for them, and that's the ethos I bring to everything I work on.
 
----
-
 ## Projects
 
 ### [Braille Character Quiz Game](https://pjrus.github.io/braille-quiz-game)
@@ -21,11 +19,8 @@ A ground-up rewrite of a VCE project — migrated from PHP/MySQL to **Next.js** 
 ### [Personal Portfolio](https://www.p-jain.dev)
 My corner of the web, featuring an interactive **Algorithm Playground** with 11 live visualisers — Dijkstra's, Bellman-Ford, AVL Trees, Tries, and more. Built to make abstract CS concepts concrete and explorable.
 
----
 
 <div align="center">
-
-*Let's build something that matters.*
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarangat-jain-6aa1321ba/)
 [![Portfolio](https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.p-jain.dev)
