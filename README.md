@@ -1,9 +1,7 @@
 ## About Me
-Hi! I'm Paarangat Jain, a Computer Science and Mathematics student at Monash University who is passionate about using technology to solve real problems and creating experiences that are thoughtfully made for the humans who'll use them.
+Hi! I'm Paarangat Jain, a Computer Science and Mathematics student at Monash University who is passionate about using technology to solve real problems and creating experiences that are thoughtfully made for the people who'll use them.
 
-Right now that shows up in my work at the Monash Assistive Technology Team (MATT), where I coordinate and lead a project focused on affordable assistive technology for students with disabilities, for the Tactile Display Project.
-
-Outside of that, I'm always working on something, whether it's interactive algorithm visualisers, productivity apps, or accessibility tools. I believe the best software is built with communities, not just for them, and that's the ethos I bring to everything I work on.
+To accomplish this, I'm always working on something, whether it's interactive algorithm visualisers to help people learn concepts, productivity apps, or accessibility tools. I believe the best software is built with communities, not just for them, and that's the ethos I bring to everything I work on.
 
 ## Projects
 
