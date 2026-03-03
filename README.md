@@ -6,13 +6,13 @@ To accomplish this, I'm always working on something, whether it's interactive al
 ## Projects
 
 ### [Braille Character Quiz Game](https://pjrus.github.io/braille-quiz-game)
-An interactive web game for learning Braille — because accessibility tools should be engaging, not just functional. Built with **React**, **TypeScript**, and **RxJS** for reactive state management.
+An interactive web game for learning Braille - because accessibility tools should be engaging, not just functional. Built with **React**, **TypeScript**, and **RxJS** for reactive state management.
 
 ### [Pomodoro Timer App](https://pjrus.github.io/pomo-app)
 A focus and productivity app for iOS with a liquid animation timer, glassmorphism UI, haptic feedback, and ambient soundscapes. Built with **React Native** and **Expo**. Good work deserves good tools.
 
 ### [Appointment Booking System](https://pjrus.github.io/appointment-booking-system)
-A ground-up rewrite of a VCE project — migrated from PHP/MySQL to **Next.js** and **MongoDB** with full CRUD, server-side validation, and automated `.ics` calendar generation. A reminder that revisiting old work with new eyes is always worth it.
+A ground-up rewrite of a VCE project - migrated from PHP/MySQL to **Next.js** and **MongoDB** with full CRUD, server-side validation, and automated `.ics` calendar generation. A reminder that revisiting old work with new eyes is always worth it.
 
 ### [Personal Portfolio](https://www.p-jain.dev)
 My corner of the web, featuring an interactive **Algorithm Playground** with 11 live visualisers — Dijkstra's, Bellman-Ford, AVL Trees, Tries, and more. Built to make abstract CS concepts concrete and explorable.
