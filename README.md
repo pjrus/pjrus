@@ -1,7 +1,7 @@
-[<p align="center">
+<p align="center">
   <img src="https://media1.tenor.com/m/u4dVxb6U1HAAAAAd/spiderman-swing.gif" width="200"/>
 </p>
-]
+
 ## About Me
 Hi! I'm Paarangat Jain, a Computer Science and Mathematics student at Monash University who is passionate about using technology to solve real problems and creating experiences that are thoughtfully made for the people who'll use them.
 
