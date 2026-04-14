@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/u4dVxb6U1HAAAAAd/spiderman-swing.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/u4dVxb6U1HAAAAAd/spiderman-swing.gif" width="800"/>
 </p>
 
 ## About Me
