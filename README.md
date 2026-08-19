@@ -59,8 +59,7 @@ haptic feedback and a clear mobile-first interface. Built with **React Native** 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/
-paarangat-jain-6aa1321ba/)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarangat-jain-6aa1321ba/)
 [![Portfolio](https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.p-jain.dev)
 [![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paarangatj@gmail.com)
 
