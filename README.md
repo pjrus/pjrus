@@ -1,49 +1,67 @@
-Hi! I'm Paarangat Jain, a Computer Science and Mathematics student at Monash University who is passionate about using technology to solve real problems and creating experiences that are thoughtfully made for the people who'll use them.
+Hi! I’m Paarangat Jain, a Computer Science student at Monash University who enjoys building practical software across web, mobile and
+assistive technology.
 
-To accomplish this, I'm always working on something, whether it's interactive algorithm visualisers to help people learn concepts, productivity apps, or accessibility tools. I believe the best software is built with communities, not just for them, and that's the ethos I bring to everything I work on.
+I’m interested in creating products that solve real problems and are thoughtfully designed for the people who use them. My work ranges from
+AI-assisted peer learning platforms and local-first productivity tools to tactile display technology for blind and low-vision users.
 
 ## Experience
 
-**Website Support & Management – Ocean Connect**  
-Improved website usability and content structure to better communicate programs, events, and community initiatives, strengthening overall digital presence.
+**Full-stack Engineering Intern – PlasmIT Vector**
+Contributing to full-stack applications across frontend, backend and database components, including implementation, testing and
+documentation.
 
-**Project Coordinator – Monash Assistive Technology Team (MATT)**  
-Led development of a **React Native mobile app (private repo)** for a tactile display system, while coordinating a team and driving user research for accessibility-focused design.
+**Website Developer – Ocean Connect**
+Maintaining and improving the organisation’s website, strengthening content structure, navigation and accessibility for volunteers and
+community members.
 
-**Operations Officer – Monash Assistive Technology Team (MATT)**  
-Supported technical operations and internal workflows to ensure smooth execution of accessibility-focused projects.
+**Project Coordinator – Monash Assistive Technology Team**
+Coordinating the development of affordable tactile displays for blind and low-vision users. Leading user interviews, design research and
+development of the React Native companion application.
 
-**Outreach Officer – Monash Assistive Technology Team (MATT)**  
-Built partnerships with schools and stakeholders to expand access to assistive technology initiatives.
+**Operations Officer – Monash Assistive Technology Team**
+Supporting technical operations, internal workflows and coordination across accessibility-focused initiatives.
 
-**Projects Officer – Monash Assistive Technology Team (MATT)**  
-Contributed to early-stage design and development of tactile display solutions for blind and low-vision users.
+**Outreach Officer – Monash Assistive Technology Team**
+Building partnerships with schools and stakeholders to expand awareness and access to assistive technology projects.
 
+**Projects Officer – Monash Assistive Technology Team**
+Contributing to the design and development of low-cost tactile and refreshable Braille display solutions.
 
 ## Projects
 
-### [Ressie](https://github.com/pjrus/ressie)
-A privacy-first resume builder that lets users create and edit LaTeX resumes through a clean form interface, with live PDF preview and multiple templates. Built with **React**, **Vite**, **Node.js**, **Express**, and **Tectonic**. Designed to make technical workflows feel simple and user-friendly.
+### [Skilliton](https://studio--studio-818276670-ce8c7.us-central1.hosted.app)
 
-### [Personal Portfolio](https://www.p-jain.dev)
-My corner of the web, featuring an interactive **Algorithm Playground** with 11 live visualisers — Dijkstra's, Bellman-Ford, AVL Trees, Tries, and more. Built to make abstract CS concepts concrete and explorable.
+An AI-assisted peer skill exchange platform built at UniHack 2026. Skilliton helps students discover compatible skill-sharing partners,
+organise sessions, chat in real time and book Google Meet calls. Built with **Next.js**, **TypeScript**, **Firebase**, **Genkit** and
+**Gemini**.
 
-### [Pomodoro Timer App](https://pjrus.github.io/pomo-app)
-A focus and productivity app for iOS with a liquid animation timer, glassmorphism UI, haptic feedback, and ambient soundscapes. Built with **React Native** and **Expo**. Good work deserves good tools.
+### [Trackie](https://pjrus.github.io/trackie/kanban/)
 
-### [Braille Character Quiz Game](https://pjrus.github.io/braille-quiz-game)
-An interactive web game for learning Braille - because accessibility tools should be engaging, not just functional. Built with **React**, **TypeScript**, and **RxJS** for reactive state management.
+A private, local-first workspace for tracking job applications from the first saved opportunity through to an offer. It includes Kanban and
+table views, validated forms, import and export tools, and requires no account, API or database. Built with **Next.js**, **React**,
+**TypeScript**, **React Hook Form**, **Zod** and **dnd-kit**.
 
-### [Appointment Booking System](https://pjrus.github.io/appointment-booking-system)
-A ground-up rewrite of a VCE project - migrated from PHP/MySQL to **Next.js** and **MongoDB** with full CRUD, server-side validation, and automated `.ics` calendar generation. A reminder that revisiting old work with new eyes is always worth it.
+### [Ressie](https://ressie.onrender.com/)
 
+A local-first résumé builder that turns structured form data into polished LaTeX documents, with live PDF previews and multiple templates.
+Built with **React**, **Vite**, **Node.js**, **Express** and **Tectonic**.
+
+### Tactile Display
+
+An assistive technology project exploring affordable tactile displays for blind and low-vision users. The project combines low-cost
+MagnePins hardware with a React Native companion application, supported by user research, Figma prototypes and an accessible project
+website.
+
+### [Pomodoro Timer](https://github.com/pjrus/pomo-app)
+
+A focused mobile timer designed to make work-and-rest routines simple and customisable. It includes persistent preferences, ambient sound,
+haptic feedback and a clear mobile-first interface. Built with **React Native** and **Expo**.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarangat-jain-6aa1321ba/)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/
+paarangat-jain-6aa1321ba/)
 [![Portfolio](https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.p-jain.dev)
 [![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paarangatj@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%" />
 
 </div>
