@@ -18,6 +18,7 @@ I enjoy turning ideas into focused, usable products. My projects span AI-assiste
 
 I care about software that is useful beyond the demo: privacy-conscious data handling, accessible interfaces, thoughtful interaction design, and engineering decisions that keep products maintainable.
 
+
 ## What I Build
 
 - **Full-stack web applications** with React, Next.js, TypeScript, Firebase and Node.js
@@ -26,6 +27,27 @@ I care about software that is useful beyond the demo: privacy-conscious data han
 - **Assistive technology** including tactile and refreshable Braille display concepts, companion applications and Braille learning tools
 - **Interactive products** with 3D graphics, games, animations and rich visual interfaces
 - **Static and content-driven sites** with SvelteKit, accessible responsive layouts and modern CSS
+
+## Experience
+
+**Full-stack Engineering Intern · PlasmIT Vector**  
+Contributing to full-stack applications across frontend, backend and database components, including implementation, testing and documentation.
+
+**Website Developer · Ocean Connect**  
+Maintaining and improving the organisation’s website, strengthening content structure, navigation and accessibility for volunteers and community members.
+
+**Project Coordinator · Monash Assistive Technology Team**  
+Coordinating the development of affordable tactile displays for blind and low-vision users. Leading user interviews, design research and development of the React Native companion application.
+
+**Operations Officer · Monash Assistive Technology Team**  
+Supporting technical operations, internal workflows and coordination across accessibility-focused initiatives.
+
+**Outreach Officer · Monash Assistive Technology Team**  
+Building partnerships with schools and stakeholders to expand awareness and access to assistive technology projects.
+
+**Projects Officer · Monash Assistive Technology Team**  
+Contributing to the design and development of low-cost tactile and refreshable Braille display solutions.
+
 
 ## Selected Projects
 
@@ -64,32 +86,6 @@ A daily equation-guessing game inspired by Wordle and Nerdle. It generates deter
 A mobile Pomodoro timer focused on making work and rest routines engaging. It combines a liquid-style timer visualisation with task tracking, focus history, ambient sounds, haptic feedback and light/dark/system themes.
 
 **React Native · Expo · Zustand · Reanimated · SVG · AsyncStorage**
-
-## Assistive Technology
-
-I am particularly interested in building technology that makes digital and physical interfaces more accessible.
-
-Through the Monash Assistive Technology Team, I have worked on affordable tactile display concepts using MagnePins hardware, user research, Figma prototypes and a React Native companion application. I have also explored Braille interaction through the Braille keyboard visualiser and Braille quiz game projects.
-
-## Experience
-
-**Full-stack Engineering Intern · PlasmIT Vector**  
-Contributing to full-stack applications across frontend, backend and database components, including implementation, testing and documentation.
-
-**Website Developer · Ocean Connect**  
-Maintaining and improving the organisation’s website, strengthening content structure, navigation and accessibility for volunteers and community members.
-
-**Project Coordinator · Monash Assistive Technology Team**  
-Coordinating the development of affordable tactile displays for blind and low-vision users. Leading user interviews, design research and development of the React Native companion application.
-
-**Operations Officer · Monash Assistive Technology Team**  
-Supporting technical operations, internal workflows and coordination across accessibility-focused initiatives.
-
-**Outreach Officer · Monash Assistive Technology Team**  
-Building partnerships with schools and stakeholders to expand awareness and access to assistive technology projects.
-
-**Projects Officer · Monash Assistive Technology Team**  
-Contributing to the design and development of low-cost tactile and refreshable Braille display solutions.
 
 ## Technical Interests
 
