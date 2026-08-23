@@ -1,64 +1,113 @@
-Hi! I’m Paarangat Jain, a Computer Science student at Monash University who enjoys building practical software across web, mobile and
-assistive technology.
+<div align="center">
 
-I’m interested in creating products that solve real problems and are thoughtfully designed for the people who use them. My work ranges from
-AI-assisted peer learning platforms and local-first productivity tools to tactile display technology for blind and low-vision users.
+# Paarangat Jain
+
+**Computer Science student at Monash University building practical software across web, mobile and assistive technology.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-p--jain.dev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.p-jain.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarangat-jain-6aa1321ba/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paarangatj@gmail.com)
+
+</div>
+
+---
+
+## About
+
+I enjoy turning ideas into focused, usable products. My projects span AI-assisted learning, local-first productivity tools, mobile applications, interactive games and assistive technology.
+
+I care about software that is useful beyond the demo: privacy-conscious data handling, accessible interfaces, thoughtful interaction design, and engineering decisions that keep products maintainable.
+
+## What I Build
+
+- **Full-stack web applications** with React, Next.js, TypeScript, Firebase and Node.js
+- **Local-first software** that keeps user data in the browser and works without accounts or cloud databases where appropriate
+- **Mobile experiences** with React Native and Expo
+- **Assistive technology** including tactile and refreshable Braille display concepts, companion applications and Braille learning tools
+- **Interactive products** with 3D graphics, games, animations and rich visual interfaces
+- **Static and content-driven sites** with SvelteKit, accessible responsive layouts and modern CSS
+
+## Selected Projects
+
+### [Skill-Issue](https://github.com/pjrus/skill-issue)
+
+An AI-assisted peer skill exchange platform built at UniHack 2026. Students can describe what they want to learn and teach, discover compatible partners, chat with Skilliton, and organise skill-swap sessions with Google Meet links and calendar downloads.
+
+**Next.js · TypeScript · Firebase · Firestore · Genkit · Gemini · Google Meet API**
+
+### [Trackie](https://github.com/pjrus/trackie)
+
+A private, local-first workspace for managing job applications. It provides Kanban and table views, validated forms, filtering, sorting, drag-and-drop, and CSV, JSON and ICS import/export without requiring an account, API or database.
+
+**Next.js · React · TypeScript · React Hook Form · Zod · dnd-kit · Vitest · Playwright**
+
+### [Ressie](https://github.com/pjrus/ressie)
+
+A privacy-oriented résumé builder that replaces raw LaTeX editing with a structured form interface. Resumes can be organised from a dashboard, tagged and reordered, while the app compiles selected templates into a live PDF preview.
+
+**React · Vite · Node.js · Express · Tectonic · LaTeX**
+
+### [Braille Keyboard Visualiser](https://github.com/pjrus/braille-keyboard-visualizer)
+
+A 3D interactive exploration of Hable-inspired Braille keyboard layouts. It supports multiple layouts, configurable physical dimensions, Perkins-style chord typing, keyboard remapping, camera controls and screenshots.
+
+**Next.js · React · TypeScript · Three.js · WebGL**
+
+### [Mazzie](https://github.com/pjrus/mazzie)
+
+A daily equation-guessing game inspired by Wordle and Nerdle. It generates deterministic daily puzzles from a date-seeded generator, validates balanced equations and provides configurable difficulty and practice modes.
+
+**SvelteKit · Svelte 5 · TypeScript · Tailwind CSS · Vitest**
+
+### [Pomodoro App](https://github.com/pjrus/pomo-app)
+
+A mobile Pomodoro timer focused on making work and rest routines engaging. It combines a liquid-style timer visualisation with task tracking, focus history, ambient sounds, haptic feedback and light/dark/system themes.
+
+**React Native · Expo · Zustand · Reanimated · SVG · AsyncStorage**
+
+## Assistive Technology
+
+I am particularly interested in building technology that makes digital and physical interfaces more accessible.
+
+Through the Monash Assistive Technology Team, I have worked on affordable tactile display concepts using MagnePins hardware, user research, Figma prototypes and a React Native companion application. I have also explored Braille interaction through the Braille keyboard visualiser and Braille quiz game projects.
 
 ## Experience
 
-**Full-stack Engineering Intern – PlasmIT Vector**
-Contributing to full-stack applications across frontend, backend and database components, including implementation, testing and
-documentation.
+**Full-stack Engineering Intern · PlasmIT Vector**  
+Contributing to full-stack applications across frontend, backend and database components, including implementation, testing and documentation.
 
-**Website Developer – Ocean Connect**
-Maintaining and improving the organisation’s website, strengthening content structure, navigation and accessibility for volunteers and
-community members.
+**Website Developer · Ocean Connect**  
+Maintaining and improving a community organisation's website with a focus on content structure, navigation and accessibility.
 
-**Project Coordinator – Monash Assistive Technology Team**
-Coordinating the development of affordable tactile displays for blind and low-vision users. Leading user interviews, design research and
-development of the React Native companion application.
+**Monash Assistive Technology Team**  
+Held roles across project coordination, operations, outreach and project development, contributing to accessibility-focused technology, user research, partnerships and low-cost tactile display development.
 
-**Operations Officer – Monash Assistive Technology Team**
-Supporting technical operations, internal workflows and coordination across accessibility-focused initiatives.
+## Technical Interests
 
-**Outreach Officer – Monash Assistive Technology Team**
-Building partnerships with schools and stakeholders to expand awareness and access to assistive technology projects.
+**Languages:** TypeScript, JavaScript, Python, PHP, HTML, CSS
 
-**Projects Officer – Monash Assistive Technology Team**
-Contributing to the design and development of low-cost tactile and refreshable Braille display solutions.
+**Frontend:** React, Next.js, Svelte, SvelteKit, Vite, Tailwind CSS
 
-## Projects
+**Mobile:** React Native, Expo
 
-### [Skilliton](https://studio--studio-818276670-ce8c7.us-central1.hosted.app)
+**Backend & data:** Node.js, Express, Firebase, Firestore, REST APIs
 
-An AI-assisted peer skill exchange platform built at UniHack 2026. Skilliton helps students discover compatible skill-sharing partners,
-organise sessions, chat in real time and book Google Meet calls. Built with **Next.js**, **TypeScript**, **Firebase**, **Genkit** and
-**Gemini**.
+**AI:** Google Gemini, Genkit, AI-assisted application development
 
-### [Trackie](https://pjrus.github.io/trackie/kanban/)
+**Testing & tooling:** Vitest, Playwright, ESLint, TypeScript, GitHub Actions
 
-A private, local-first workspace for tracking job applications from the first saved opportunity through to an offer. It includes Kanban and
-table views, validated forms, import and export tools, and requires no account, API or database. Built with **Next.js**, **React**,
-**TypeScript**, **React Hook Form**, **Zod** and **dnd-kit**.
+**Accessibility & interaction:** Braille, tactile interfaces, keyboard interaction, responsive design, WCAG-focused UI
 
-### [Ressie](https://ressie.onrender.com/)
+## Portfolio
 
-A local-first résumé builder that turns structured form data into polished LaTeX documents, with live PDF previews and multiple templates.
-Built with **React**, **Vite**, **Node.js**, **Express** and **Tectonic**.
+My portfolio is built with SvelteKit and presents selected projects, experience, technical interests and writing as a fully prerendered static site.
 
-### Tactile Display
+**[p-jain.dev](https://www.p-jain.dev)** · **[GitHub](https://github.com/pjrus)**
 
-An assistive technology project exploring affordable tactile displays for blind and low-vision users. The project combines low-cost
-MagnePins hardware with a React Native companion application, supported by user research, Figma prototypes and an accessible project
-website.
-
-### [Pomodoro Timer](https://github.com/pjrus/pomo-app)
-
-A focused mobile timer designed to make work-and-rest routines simple and customisable. It includes persistent preferences, ambient sound,
-haptic feedback and a clear mobile-first interface. Built with **React Native** and **Expo**.
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarangat-jain-6aa1321ba/)[![Portfolio](https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.p-jain.dev) [![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paarangatj@gmail.com)
+*Building useful things, learning in public, and trying to make the interface a little better each time.*
 
 </div>
