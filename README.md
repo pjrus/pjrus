@@ -77,10 +77,19 @@ Through the Monash Assistive Technology Team, I have worked on affordable tactil
 Contributing to full-stack applications across frontend, backend and database components, including implementation, testing and documentation.
 
 **Website Developer · Ocean Connect**  
-Maintaining and improving a community organisation's website with a focus on content structure, navigation and accessibility.
+Maintaining and improving the organisation’s website, strengthening content structure, navigation and accessibility for volunteers and community members.
 
-**Monash Assistive Technology Team**  
-Held roles across project coordination, operations, outreach and project development, contributing to accessibility-focused technology, user research, partnerships and low-cost tactile display development.
+**Project Coordinator · Monash Assistive Technology Team**  
+Coordinating the development of affordable tactile displays for blind and low-vision users. Leading user interviews, design research and development of the React Native companion application.
+
+**Operations Officer · Monash Assistive Technology Team**  
+Supporting technical operations, internal workflows and coordination across accessibility-focused initiatives.
+
+**Outreach Officer · Monash Assistive Technology Team**  
+Building partnerships with schools and stakeholders to expand awareness and access to assistive technology projects.
+
+**Projects Officer · Monash Assistive Technology Team**  
+Contributing to the design and development of low-cost tactile and refreshable Braille display solutions.
 
 ## Technical Interests
 
