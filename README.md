@@ -19,15 +19,6 @@ I enjoy turning ideas into focused, usable products. My projects span AI-assiste
 I care about software that is useful beyond the demo: privacy-conscious data handling, accessible interfaces, thoughtful interaction design, and engineering decisions that keep products maintainable.
 
 
-## What I Build
-
-- **Full-stack web applications** with React, Next.js, TypeScript, Firebase and Node.js
-- **Local-first software** that keeps user data in the browser and works without accounts or cloud databases where appropriate
-- **Mobile experiences** with React Native and Expo
-- **Assistive technology** including tactile and refreshable Braille display concepts, companion applications and Braille learning tools
-- **Interactive products** with 3D graphics, games, animations and rich visual interfaces
-- **Static and content-driven sites** with SvelteKit, accessible responsive layouts and modern CSS
-
 ## Selected Projects
 
 ### [Skill-Issue](https://github.com/pjrus/skill-issue)
