@@ -28,27 +28,6 @@ I care about software that is useful beyond the demo: privacy-conscious data han
 - **Interactive products** with 3D graphics, games, animations and rich visual interfaces
 - **Static and content-driven sites** with SvelteKit, accessible responsive layouts and modern CSS
 
-## Experience
-
-**Full-stack Engineering Intern · PlasmIT Vector**  
-Contributing to full-stack applications across frontend, backend and database components, including implementation, testing and documentation.
-
-**Website Developer · Ocean Connect**  
-Maintaining and improving the organisation’s website, strengthening content structure, navigation and accessibility for volunteers and community members.
-
-**Project Coordinator · Monash Assistive Technology Team**  
-Coordinating the development of affordable tactile displays for blind and low-vision users. Leading user interviews, design research and development of the React Native companion application.
-
-**Operations Officer · Monash Assistive Technology Team**  
-Supporting technical operations, internal workflows and coordination across accessibility-focused initiatives.
-
-**Outreach Officer · Monash Assistive Technology Team**  
-Building partnerships with schools and stakeholders to expand awareness and access to assistive technology projects.
-
-**Projects Officer · Monash Assistive Technology Team**  
-Contributing to the design and development of low-cost tactile and refreshable Braille display solutions.
-
-
 ## Selected Projects
 
 ### [Skill-Issue](https://github.com/pjrus/skill-issue)
