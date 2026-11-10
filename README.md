@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-p--jain.dev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.p-jain.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarangat-jain-6aa1321ba/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paarangatj@gmail.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/pjrus)
 
 </div>
 
