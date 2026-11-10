@@ -78,7 +78,7 @@ A mobile Pomodoro timer focused on making work and rest routines engaging. It co
 
 My portfolio is built with SvelteKit and presents selected projects, experience, technical interests and writing as a fully prerendered static site.
 
-**[p-jain.dev](https://www.p-jain.dev)** · **[GitHub](https://github.com/pjrus)**
+**[p-jain.dev](https://www.p-jain.dev)** · **[GitHub](https://github.com/pjrus)** · **[Buy Me a Coffee](https://buymeacoffee.com/pjrus)**
 
 ---
 
