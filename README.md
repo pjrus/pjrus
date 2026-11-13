@@ -2,7 +2,7 @@
 
 # Paarangat Jain
 
-**Computer Science student at Monash University building practical software across web, mobile and assistive technology.**
+**Computer Science student at Monash University building practical software across full-stack web, mobile and assistive technology.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-p--jain.dev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.p-jain.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarangat-jain-6aa1321ba/)
@@ -15,70 +15,61 @@
 
 ## About
 
-I enjoy turning ideas into focused, usable products. My projects span AI-assisted learning, local-first productivity tools, mobile applications, interactive games and assistive technology.
+I build focused, usable products. My work falls into three threads: **local-first tools** that keep your data on your device, **AI-assisted apps** that help people learn from each other, and **assistive technology** designed with blind and low-vision users.
 
-I care about software that is useful beyond the demo: privacy-conscious data handling, accessible interfaces, thoughtful interaction design, and engineering decisions that keep products maintainable.
+Every project below is also on [p-jain.dev](https://www.p-jain.dev), with live demos.
 
+## Projects
 
-## Selected Projects
+### [Skilliton](https://github.com/pjrus/unihack-2026-final) · [Live](https://studio--studio-818276670-ce8c7.us-central1.hosted.app/)
 
-### [Skill-Issue](https://github.com/pjrus/skill-issue)
+An AI-assisted peer skill exchange built at UniHack 2026. Students describe what they want to learn and teach, get matched with compatible partners, and organise sessions with Google Meet links and calendar downloads.
 
-An AI-assisted peer skill exchange platform built at UniHack 2026. Students can describe what they want to learn and teach, discover compatible partners, chat with Skilliton, and organise skill-swap sessions with Google Meet links and calendar downloads.
+**Next.js · TypeScript · Firebase · Genkit · Gemini**
 
-**Next.js · TypeScript · Firebase · Firestore · Genkit · Gemini · Google Meet API**
+### [Braille Keyboard Visualiser](https://github.com/pjrus/braille-keyboard-visualizer) · [Live](https://pjrus.github.io/braille-keyboard-visualizer/)
 
-### [Trackie](https://github.com/pjrus/trackie)
-
-A private, local-first workspace for managing job applications. It provides Kanban and table views, validated forms, filtering, sorting, drag-and-drop, and CSV, JSON and ICS import/export without requiring an account, API or database.
-
-**Next.js · React · TypeScript · React Hook Form · Zod · dnd-kit · Vitest · Playwright**
-
-### [Ressie](https://github.com/pjrus/ressie)
-
-A privacy-oriented résumé builder that replaces raw LaTeX editing with a structured form interface. Resumes can be organised from a dashboard, tagged and reordered, while the app compiles selected templates into a live PDF preview.
-
-**React · Vite · Node.js · Express · Tectonic · LaTeX**
-
-### [Braille Keyboard Visualiser](https://github.com/pjrus/braille-keyboard-visualizer)
-
-A 3D interactive exploration of Hable-inspired Braille keyboard layouts. It supports multiple layouts, configurable physical dimensions, Perkins-style chord typing, keyboard remapping, camera controls and screenshots.
+A 3D interactive visualiser for exploring Hable-inspired Braille keyboard layouts, with Perkins-style chord typing, custom key mappings and configurable physical dimensions.
 
 **Next.js · React · TypeScript · Three.js · WebGL**
 
-### [Mazzie](https://github.com/pjrus/mazzie)
+### [Inkboard](https://github.com/pjrus/inkboard) · [Live](https://pjrus.github.io/inkboard/)
 
-A daily equation-guessing game inspired by Wordle and Nerdle. It generates deterministic daily puzzles from a date-seeded generator, validates balanced equations and provides configurable difficulty and practice modes.
+A local-first infinite canvas for handwriting, typed notes and PDF annotation. Everything is stored in the browser, with CRDT-based state so edits stay consistent.
 
-**SvelteKit · Svelte 5 · TypeScript · Tailwind CSS · Vitest**
+**TypeScript · Vite · IndexedDB · CRDT**
 
-### [Pomodoro App](https://github.com/pjrus/pomo-app)
+### [Ressie](https://github.com/pjrus/ressie) · [Live](https://pjrus.github.io/ressie/)
 
-A mobile Pomodoro timer focused on making work and rest routines engaging. It combines a liquid-style timer visualisation with task tracking, focus history, ambient sounds, haptic feedback and light/dark/system themes.
+A local-first résumé builder that turns structured form data into polished LaTeX, rendered in the browser with a live preview and multiple templates. No raw LaTeX editing required.
 
-**React Native · Expo · Zustand · Reanimated · SVG · AsyncStorage**
+**React · Vite · JavaScript · LaTeX**
 
-## Technical Interests
+### [Trackie](https://github.com/pjrus/trackie) · [Live](https://pjrus.github.io/trackie/kanban/)
 
-**Languages:** TypeScript, JavaScript, Python, PHP, HTML, CSS
+A private, local-first workspace for tracking job applications from first save through to offer. Kanban and table views, drag-and-drop, and CSV, JSON and ICS import/export, with no account or database.
 
-**Frontend:** React, Next.js, Svelte, SvelteKit, Vite, Tailwind CSS
+**Next.js · React · TypeScript · dnd-kit**
+
+### [Portfolio](https://github.com/pjrus/p-jain-dev) · [Live](https://www.p-jain.dev)
+
+A responsive, fully prerendered personal site showcasing shipped software, accessibility work and experience across web, mobile and hardware.
+
+**SvelteKit · JavaScript · CSS**
+
+## Tech I Use
+
+**Languages:** TypeScript, JavaScript, Python, HTML, CSS
+
+**Frontend:** React, Next.js, SvelteKit, Vite, Three.js
 
 **Mobile:** React Native, Expo
 
-**Backend & data:** Node.js, Express, Firebase, Firestore, REST APIs
+**Data & backend:** Firebase, IndexedDB, CRDTs, Node.js
 
-**AI:** Google Gemini, Genkit, AI-assisted application development
+**AI:** Google Gemini, Genkit
 
-**Testing & tooling:** Vitest, Playwright, ESLint, TypeScript, GitHub Actions
-
-**Accessibility & interaction:** Braille, tactile interfaces, keyboard interaction, responsive design, WCAG-focused UI
-
-## Portfolio
-
-My portfolio is built with SvelteKit and presents selected projects, experience, technical interests and writing as a fully prerendered static site.
-
-**[p-jain.dev](https://www.p-jain.dev)** · **[GitHub](https://github.com/pjrus)** · **[Buy Me a Coffee](https://buymeacoffee.com/pjrus)**
+**Accessibility:** Braille and tactile interfaces, keyboard interaction, WCAG-focused UI
 
 ---
 
